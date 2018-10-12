@@ -133,6 +133,7 @@ img {
 .wrap {
   flex-flow: wrap;
 }
+
 /*containers*/
 .container-lrg,
 .container,
@@ -560,4 +561,8 @@ td.hljs-ln-code {
   .hljs * {
     font-size: 11px !important;
   }
+}
+
+.discord-widget {
+  max-width: 100%;
 }
