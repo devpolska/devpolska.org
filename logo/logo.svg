@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.946976mm"
+   height="33.025726mm"
+   viewBox="0 0 50.946976 33.025726"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/loji/work/devpolska.org/logo/logo2.png"
+   inkscape:export-xdpi="370.42001"
+   inkscape:export-ydpi="370.42001">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="64.131365"
+     inkscape:cy="63.802381"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1918"
+     inkscape:window-height="1042"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     borderlayer="true"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-bottom="3"
+     fit-margin-right="3" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.577742,-58.594916)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3713"
+       style="font-style:normal;font-weight:normal;font-size:33.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.29426882,-0.03316335,0.03316335,0.29426882,-13.975348,-0.18749511)"
+       inkscape:export-xdpi="1698.6801"
+       inkscape:export-ydpi="1698.6801"><flowRegion
+         id="flowRegion3715"
+         style="font-size:33.33333206px"><rect
+           id="rect3717"
+           width="239.40616"
+           height="172.73608"
+           x="183.84776"
+           y="243.68697"
+           style="font-size:33.33333206px" /></flowRegion><flowPara
+         id="flowPara3719"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.33333206px;line-height:0;font-family:'xos4 Terminus';-inkscape-font-specification:'xos4 Terminus Bold'">{}</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.80712032px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.195178"
+       x="34.224964"
+       y="87.06842"
+       id="text3742"><tspan
+         sodipodi:role="line"
+         id="tspan3740"
+         x="34.224964"
+         y="87.06842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.195178">devPolska.org</tspan></text>
+    <path
+       style="fill:#b70000;fill-opacity:1;stroke:#b70000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 45.023495,63.816368 14.355226,-2.090335 -13.071941,3.018569 0.758818,11.338387 8.221472,3.332221 10.188942,-5.200446 -0.505005,-9.749945 -7.29121,-1.262257 7.5931,0.920708 1.917559,10.721224 -11.951616,5.282492 -8.624465,-3.617037 c 0,0 -1.182009,-8.739798 -1.59088,-12.693581 z"
+       id="path3744"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-xdpi="1698.6801"
+       inkscape:export-ydpi="1698.6801" />
+    <path
+       style="fill:#b70000;fill-opacity:1;stroke:#b70000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.525116,79.429419 c -1.290001,-0.966241 -0.997133,-3.181551 -0.01181,-3.673456 0.189756,0.384113 0.388305,0.730608 0.626023,0.909505 -0.688999,0.660752 -1.212073,1.146728 -0.61421,2.763951 z"
+       id="path4553"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="1698.6801"
+       inkscape:export-ydpi="1698.6801" />
+  </g>
+</svg>

@@ -15,8 +15,14 @@
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
+.main-container {
+  padding-top: 40px;
+}
+
 .header {
-	padding-top: 40px;
+  padding: 5px 0;
+  background: white;
+  position: relative;
 }
 .logo {
   font-size: calc(120% + 1vw);
